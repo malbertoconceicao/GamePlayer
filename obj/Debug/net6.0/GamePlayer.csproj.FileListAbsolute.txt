@@ -1,0 +1,15 @@
+C:\dev\GamePlayer\obj\Debug\net6.0\GamePlayer.csproj.AssemblyReference.cache
+C:\dev\GamePlayer\obj\Debug\net6.0\GamePlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\GamePlayer\obj\Debug\net6.0\GamePlayer.AssemblyInfoInputs.cache
+C:\dev\GamePlayer\obj\Debug\net6.0\GamePlayer.AssemblyInfo.cs
+C:\dev\GamePlayer\obj\Debug\net6.0\GamePlayer.csproj.CoreCompileInputs.cache
+C:\dev\GamePlayer\bin\Debug\net6.0\GamePlayer.exe
+C:\dev\GamePlayer\bin\Debug\net6.0\GamePlayer.deps.json
+C:\dev\GamePlayer\bin\Debug\net6.0\GamePlayer.runtimeconfig.json
+C:\dev\GamePlayer\bin\Debug\net6.0\GamePlayer.dll
+C:\dev\GamePlayer\bin\Debug\net6.0\GamePlayer.pdb
+C:\dev\GamePlayer\obj\Debug\net6.0\GamePlayer.dll
+C:\dev\GamePlayer\obj\Debug\net6.0\refint\GamePlayer.dll
+C:\dev\GamePlayer\obj\Debug\net6.0\GamePlayer.pdb
+C:\dev\GamePlayer\obj\Debug\net6.0\GamePlayer.genruntimeconfig.cache
+C:\dev\GamePlayer\obj\Debug\net6.0\ref\GamePlayer.dll
