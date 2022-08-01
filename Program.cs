@@ -18,8 +18,18 @@ namespace GamePlayer
 
       Console.WriteLine(playerOne.PlayerName);
       Console.WriteLine(playerTwo.PlayerName);
-      Random rnd = new Random();
-      Console.WriteLine(rnd.Next(0, 10));
+      Random dados = new Random();
+
+      for (int i = 0; i < 4; i++)
+      {
+        Console.Clear();
+        Console.WriteLine("Dados rolando");
+        Console.WriteLine(dados.Next(0, 10));
+        Thread.Sleep(1000);
+      }
+      Console.Clear();
+      Console.WriteLine("Dados parados");
+      Console.WriteLine(dados.Next(0, 10));
 
     }
   }
