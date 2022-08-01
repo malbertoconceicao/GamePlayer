@@ -18,6 +18,9 @@ namespace GamePlayer
 
       Console.WriteLine(playerOne.PlayerName);
       Console.WriteLine(playerTwo.PlayerName);
+      Random rnd = new Random();
+      Console.WriteLine(rnd.Next(0, 10));
+
     }
   }
 }
