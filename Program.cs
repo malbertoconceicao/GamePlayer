@@ -19,9 +19,6 @@ namespace GamePlayer
         Console.WriteLine(dados.Next(0, 10));
         Thread.Sleep(1000);
       }
-      Console.Clear();
-      Console.WriteLine("Dados parados");
-      Console.WriteLine(dados.Next(0, 10));
     }
   }
 }
